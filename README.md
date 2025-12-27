@@ -88,16 +88,16 @@ class About extends Me {
 <div align="center" >
 <a  href="https://github.com/goger1245">
 
-<img src="./profile-summary-card-output/2077/3-stats.svg" width="32.5%">
 <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="32.5%">
 <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" width="32.5%">
+<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="32.5%">
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="./profile-summary-card-output/2077/0-profile-details.svg" >
+<img align="center" src="./profile-summary-card-output/2077/4-productive-time.svg" >
 
 </details>
   
