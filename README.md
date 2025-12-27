@@ -85,34 +85,8 @@ class About extends Me {
 
 ## Статистика GitHub
 
-<div align="center" >
-<a  href="https://github.com/goger1245">
-
-<img src="./profile-summary-card-output/2077/1-repos-per-language.svg" width="32.5%">
-<img src="./profile-summary-card-output/2077/2-most-commit-language.svg" width="32.5%">
-<img src="./profile-summary-card-output/2077/4-productive-time.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="./profile-summary-card-output/2077/4-productive-time.svg" >
-
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-</div>
+[![Gogi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goger1245&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 ## Форумы-контакты
