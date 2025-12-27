@@ -1,0 +1,25 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # ежедневно в 04:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: goger1245
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: nord_dark
+          TIMEZONE: Europe/Moscow
+          COMMIT_MESSAGE: "chore: update profile summary cards"
+          BRANCH: ${{ github.ref_name }}
+
+
