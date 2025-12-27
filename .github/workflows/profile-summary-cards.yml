@@ -5,21 +5,23 @@ on:
     - cron: "0 4 * * *" # ежедневно в 04:00 UTC
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Создай этот secret (PAT) в репозитории: Settings → Secrets and variables → Actions
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: goger1245
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: nord_dark
-          TIMEZONE: Europe/Moscow
-          COMMIT_MESSAGE: "chore: update profile summary cards"
-          BRANCH: ${{ github.ref_name }}
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 3
+          AUTO_PUSH: true
 
 
