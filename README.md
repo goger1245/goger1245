@@ -85,8 +85,12 @@ class About extends Me {
 
 ## Статистика GitHub
 
-[![Gogi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goger1245&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization)
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
+  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+</a>
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
+  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=goger1245&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+</a>
 
 
 ## Форумы-контакты
