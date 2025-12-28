@@ -1,10 +1,3 @@
-<!--
-Профильный README:
-1) Создайте репозиторий с именем вашего GitHub-логина (например: username/username)
-2) Положите в него этот файл как README.md
-3) (Опционально) замените YOUR_GITHUB_USERNAME ниже на ваш username, если он ещё не подставлен
--->
-
 ## Даров! Я Gogi — добро пожаловать в мой GitHub
 
 <div align="center">
@@ -86,29 +79,22 @@ class About extends Me {
 ## 📊 Статистика GitHub
 
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
-  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </a>
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
-  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=goger1245&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+  <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=goger1245&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </a>
 
 
 ## 💬 Форумы-контакты
 
 <div align="left">
-  <!-- Замените ссылки на свои -->
   <a href="https://t.me/G_o_g1ch" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 6px;" />
   </a>
   <a href="https://lolz.live/members/8688653/" target="_blank">
     <img src="https://img.shields.io/badge/lolz.live-111111?style=for-the-badge&logo=discourse&logoColor=white" alt="lolz.live" style="margin-bottom: 6px;" />
   </a>
-  <!-- Пример: почта (если хотите) -->
-  <!--
-  <a href="mailto:you@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 6px;" />
-  </a>
-  -->
 </div>
 
 ---
