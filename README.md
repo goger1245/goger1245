@@ -85,8 +85,8 @@ class About extends Me {
 
 ## Статистика GitHub
 
-[![Gogi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goger1245&layout=compact)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Gogi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goger1245&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization)
 
 
 ## Форумы-контакты
