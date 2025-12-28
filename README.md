@@ -16,11 +16,11 @@
 - Я **Python-разработчик**: от Telegram-ботов до проектов со сложной логикой.  
 - Делаю полезные open-source штуки (иногда шуточные, иногда — для себя) и постоянно учусь новому.
 
-<div style="background:#000; color:#fff; padding:14px 16px; border-radius:12px; overflow:auto;">
-<pre style="margin:0; white-space:pre;"><code>// tools_I_use organized
+```dart
+// tools_I_use organized
 
-class About extends Me {
-  const myTools = {
+class About extends Me { 
+  const myTools = {  
     "ProgramingLanguages" : { "Python", "Javascript" },
     "OtherLanguages" : { "HTML", "CSS", "Json", "Markdown" },
     "Database" : { "Sqlite", "PostgreSql" },
@@ -29,8 +29,7 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
-</code></pre>
-</div>
+```
 
 ---
 
