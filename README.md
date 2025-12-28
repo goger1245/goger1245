@@ -33,13 +33,13 @@ class About extends Me {
 
 ---
 
-## Чем занимаюсь
+## 💼 Чем занимаюсь
 
 - **Автоматизация/боты**: Telegram-Discord боты, парсеры, дамперы, чекеры, приложения, интеграции и многое другое.
 - **Бэкенд**: API, логика, построение структуры, хранение данных, интеграции со сторонними сервисами.
 - **Инфраструктура**: Git, Docker, деплой по необходимости.
 
-## Стейк
+## 🥩 Стейк
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank"><img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="46" /></a>
@@ -54,7 +54,7 @@ class About extends Me {
 
 ---
 
-## Проекты (что стоит посмотреть)
+## 📂 Проекты 
 
 Нажимай на категорию — список раскроется.
 
@@ -83,7 +83,7 @@ class About extends Me {
   - **[Проект 2](./)** — 
 </details>
 
-## Статистика GitHub
+## 📊 Статистика GitHub
 
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast?tab=readme-ov-file#customization">
   <img height="200" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=goger1245&show_icons=true&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
@@ -93,7 +93,7 @@ class About extends Me {
 </a>
 
 
-## Форумы-контакты
+## 💬 Форумы-контакты
 
 <div align="left">
   <!-- Замените ссылки на свои -->
